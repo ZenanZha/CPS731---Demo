@@ -1,0 +1,16 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "advance": "node scripts/advance",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zenan",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
